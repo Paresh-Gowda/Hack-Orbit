@@ -26,4 +26,5 @@ See `code.ino` file for the Arduino sketch.
 
 ## 👩‍💻 Author
 Paresh-Gowda
+Mokshitha-KJ
 
