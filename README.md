@@ -25,6 +25,6 @@ It reduces human-wildlife conflict and improves farmer livelihoods.
 See `code.ino` file for the Arduino sketch.
 
 ## 👩‍💻 Author
-Paresh-R 
+Paresh-R                                
 Mokshitha-KJ
 
